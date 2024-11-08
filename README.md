@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrishanuGharami
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m a Full Stack Web Developer
 - 💞️ I’m looking to collaborate on Real-time Projects
 - 📫 How to reach me - just mail me at 24krishanugharami@gmail.com
 - 😄 Pronouns: He/Him
