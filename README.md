@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KrishanuGharami
-- 👀 I’m interested in Web Development
-- 🌱 I’m a Full Stack Web Developer
-- 💞️ I’m looking to collaborate on Real-time Projects
+- 👋 Hi, I’m Krishanu Gharami
+- 👀 I’m passionate about Web Development
+- 🌱 I’m a Full Stack Developer
+- 💞️ I’m contributing on Real-time Projects
 - 📫 How to reach me - just mail me at 24krishanugharami@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a quick learner
